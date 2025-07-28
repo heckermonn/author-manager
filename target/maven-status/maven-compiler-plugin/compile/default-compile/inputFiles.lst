@@ -1,0 +1,13 @@
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/LoginServlet.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/GetAuthorByIdServlet.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/businesslayer/AuthorBusinessLogic.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/UpdateAuthorServlet.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/getAllAuthors.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/dataaccesslayer/AuthorDAOImpl.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/LogoutServlet.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/dataaccesslayer/DataSource.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/ControllerServlet.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/transferobjects/AuthorDTO.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/DeleteAuthorServlet.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/dataaccesslayer/AuthorDAO.java
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/viewlayer/AddAuthorServlet.java

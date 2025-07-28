@@ -1,0 +1,13 @@
+viewlayer/ControllerServlet.class
+viewlayer/AddAuthorServlet.class
+dataaccesslayer/AuthorDAO.class
+businesslayer/AuthorBusinessLogic.class
+dataaccesslayer/DataSource.class
+dataaccesslayer/AuthorDAOImpl.class
+viewlayer/LoginServlet.class
+transferobjects/AuthorDTO.class
+viewlayer/GetAuthorByIdServlet.class
+viewlayer/LogoutServlet.class
+viewlayer/DeleteAuthorServlet.class
+viewlayer/getAllAuthors.class
+viewlayer/UpdateAuthorServlet.class

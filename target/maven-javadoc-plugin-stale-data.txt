@@ -1,0 +1,60 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/Users/1gr8p/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar:/Users/1gr8p/.m2/repository/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.jar:/Users/1gr8p/.m2/repository/com/google/protobuf/protobuf-java/4.29.0/protobuf-java-4.29.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Louis.Tran.assignment2-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Louis.Tran.assignment2-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+viewlayer
+businesslayer
+transferobjects
+dataaccesslayer
+/Users/1gr8p/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar = 1567525183000
+/Users/1gr8p/.m2/repository/com/mysql/mysql-connector-j/9.3.0/mysql-connector-j-9.3.0.jar = 1745911810000
+/Users/1gr8p/.m2/repository/com/google/protobuf/protobuf-java/4.29.0/protobuf-java-4.29.0.jar = 1732740327000
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/books-MySQL.sql = 1752447480000
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java/database.properties = 1753672265887
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/src/main/java = 1753672219187
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/tag-search-index.js = 1753677799751
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/overview-tree.html = 1753677799739
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/module-search-index.js = 1753677799750
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/index.html = 1753677799740
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/package-search-index.js = 1753677799750
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/link.svg = 1753677799764
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/serialized-form.html = 1753677799718
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/index-all.html = 1753677799759
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/allpackages-index.html = 1753677799750
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/member-search-index.js = 1753677799750
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/copy.svg = 1753677799763
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/script.js = 1753677799763
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/stylesheet.css = 1753677799762
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/search-page.js = 1753677799765
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/overview-summary.html = 1753677799760
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/help-doc.html = 1753677799761
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/javadoc.sh = 1753677685498
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/element-list = 1753677799696
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/search.html = 1753677799759
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/allclasses-index.html = 1753677799748
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/type-search-index.js = 1753677799750
+/Users/1gr8p/NetBeansProjects/Louis.Tran.assignment2/target/reports/apidocs/search.js = 1753677799764
